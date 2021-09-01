@@ -1,7 +1,13 @@
 # Applied Data Science Capstone project
 Challenge:
+
 A company named Space Y asked us to:
-determine the price of each launch - gather public information about Space X and create dashboards for the team train a machine learning model to predict successful Stage 1 recovery
+
+1.determine the price of each launch
+
+2.gather public information about Space X and 
+
+3.create dashboards for the team train a machine learning model to predict successful Stage 1 recovery.
 
 This repository contains completed notebooks and python files for the capstone project : IBM Data Science Professional Certification.
 
