@@ -1,4 +1,4 @@
-# Applied-Data-Science-Capstone
+# Applied Data Science Capstone project
 This repository contains completed notebooks and python files for the capstone project : IBM Data Science Professional Certification.
 
 Week 1
